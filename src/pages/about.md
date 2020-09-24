@@ -3,7 +3,7 @@ title: About Me
 subtitle: >-
   This is just me  giving you updates as i continue my journey as a
   web-developer, i hope you stick around *wink
-img_path: images/about.jpg
+img_path: images/IMG_5563.JPG
 template: page
 ---
 
