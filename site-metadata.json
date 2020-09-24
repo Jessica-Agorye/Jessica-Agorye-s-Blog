@@ -1,6 +1,6 @@
 {
     "description": "My personal blog, sharing my journey as a developer",
-    "layout_style": "grid",
+    "layout_style": "list",
     "palette": "green",
     "header": {
         "title": "Ampersand",
