@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is
+subtitle: 'This is all of me , giving you updates as i continue my journey as a '
 img_path: images/about.jpg
 template: page
 ---
