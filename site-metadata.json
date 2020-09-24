@@ -1,7 +1,7 @@
 {
     "description": "My personal blog, sharing my journey as a developer",
     "layout_style": "grid",
-    "palette": "blue",
+    "palette": "black",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
