@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: 'This is all of me , giving you updates as i continue my journey as a '
+subtitle: >-
+  This is all of me , giving you updates as i continue my journey as a
+  web-developer
 img_path: images/about.jpg
 template: page
 ---
