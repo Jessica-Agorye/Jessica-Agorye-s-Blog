@@ -1,5 +1,5 @@
 ---
-title: ''
+title: dEVELOPER jOURNEY
 subtitle: lorem-ipsum
 date: '2020-09-24'
 excerpt: lorem-ipsum
