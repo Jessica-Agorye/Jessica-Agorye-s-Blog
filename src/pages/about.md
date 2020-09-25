@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  This is just me  giving you updates about my journey as a web-developer, ie
-  ... i hope you stick around *winks*
+  This is just me  giving you updates about my journey as a web-developer, ... i
+  hope you stick around *winks*
 img_path: images/IMG_5563.JPG
 template: page
 ---
