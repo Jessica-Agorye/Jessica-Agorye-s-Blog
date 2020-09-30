@@ -1,5 +1,5 @@
 ---
-title: New into Tech; herre to start building a career in the tech world!
+title: New into Tech; here to start building a career in the tech world!
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
