@@ -1,5 +1,5 @@
 ---
-title: 'New into '
+title: New into Tech
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
