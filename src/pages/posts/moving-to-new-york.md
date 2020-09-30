@@ -4,8 +4,8 @@ subtitle: A cautionary tale about life in New York
 excerpt: >-
   A time came where i sat down and i began to think about so many things, about
   where my life was headed and what i was doing about it. I Remember speaking to
-  a friend of mine who is a web-is a developer and talking about all my worries
-  and fears and  somehow i got so much clarity.
+  a friend of mine who is a web-developer and talking about all my worries and
+  fears and  somehow i got so much clarity.
 date: '2020-03-30'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
