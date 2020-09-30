@@ -1,5 +1,5 @@
 ---
-title: Why Reading is Important!
+title: Cultivating the habit of reading
 excerpt: >-
   ,the only time i read books was when i would save up my luch money to buy
   romance novels in secondary school. When i was in the higher institution  i
