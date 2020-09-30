@@ -6,7 +6,7 @@ excerpt: >-
   where my life was headed and what i was doing about it. I Remember speaking to
   a friend of mine who is a web-developer and talking about all my worries and
   fears and  somehow i got so much clarity.
-date: ''
+date: '2020-09-03'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
 template: post
