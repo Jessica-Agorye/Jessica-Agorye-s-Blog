@@ -2,10 +2,10 @@
 title: Home
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  This is my personal blog, why i choose web-development as a career, my journey
+  so far and happenings that come up along the way. As time goes on i will be
+  introducing various contents regarding my profession and also random
+  happenings.
 intro_actions:
   - label: Learn More
     url: /about
