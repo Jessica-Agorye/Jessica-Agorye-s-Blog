@@ -1,5 +1,5 @@
 ---
-title: My Journey as Tech
+title: My Journey into Tech
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   A time came where i sat down and i began to think about so many things, about
