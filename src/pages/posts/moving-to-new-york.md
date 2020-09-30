@@ -7,7 +7,7 @@ excerpt: >-
   2017 population of 8,622,698 distributed over a land area of about 302.6
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
-date: '0202-03-30'
+date: '2020-03-30'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
 template: post
