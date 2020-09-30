@@ -1,5 +1,5 @@
 ---
-title: Things i learnt On-Becoming a Web Developer
+title: 'My Journey as '
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   A time came where i sat down and i began to think about so many things, about
