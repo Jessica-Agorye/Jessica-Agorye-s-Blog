@@ -3,7 +3,7 @@ title: Why Reading is Important!
 excerpt: >-
   ,the only time i read books was when i would save up my luch money to buy
   romance novels in secondary school. When i was in the higher institution  i
-  didnt do much reading either,''
+  didn't do much reading either,''
 date: '2020-09-30'
 thumb_img_path: images/reading img2.jpg
 content_img_path: images/1.jpg
