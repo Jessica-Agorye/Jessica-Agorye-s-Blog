@@ -1,5 +1,5 @@
 ---
-title: Things i learnt On-becoming a Web Developer
+title: Things i learnt On-Becoming a Web Developer
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
