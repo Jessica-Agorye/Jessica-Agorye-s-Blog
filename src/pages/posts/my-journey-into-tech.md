@@ -1,10 +1,12 @@
 ---
 title: How I started My Journey into Tech
 excerpt: >-
- A time came when I started to think about where my life was headed and what I was going to about it. I remember speaking to a friend, She's also a developer, and we got talking about all my worries and fears, and somehow I got so much clarity.
+  A time came when I started to think about where my life was headed and what I
+  was going to about it. I remember speaking to a friend, She's also a
+  developer, and we got talking about all my worries and fears, and somehow I
+  got so much clarity.
 date: '2020-10-03'
-thumb_img_path: images/5.jpg
-# content_img_path: images/5.jpg
+thumb_img_path: images/blog img 2.png
 template: post
 ---
 I remember the first time I got introduced to web development. I think I was about 17 or 18 years old, I was at the University studying Computer Science, and it was during my first IT placement.  Although I got introduced to it very briefly, I found it fascinating. I remember the software used was **Adobe Dreamweaver** if anyone recalls that software, we're definitely in the same age-group lol. I learned how to apply colors and make table e.t.c
